@@ -44,3 +44,34 @@ print("Hello")
 print(name)
 
 ```
+### Operators
+
+**Artimetic Operators**
+` + - * / `
+
+**Comprison Operators**
+`> < == != >= <=  `
+`%` Modulus - remainder of the division of left operand by the right
+
+## Arithmetic Operators
+
+| Operand    | Description                          | Example    |
+|:---------: |:----------------------------:        |:--------:  |
+|    +       | add two operands (variables) together| X + y + 2  |
+|    -       | subtract two operands (variables)    | X - y - 2  |
+|    *       | multiply two operands (variables)    | X - y - 2  |
+|    /       | divide two operands (variables)      | X - y - 2  |
+    |    %   | Modulus - remainder of the division of left operand by the right    | X - y - 2  |
+|    +       | add two operands (variables) together| X + y + 2  |
+
+## Comparison Operators
+
+| Operand    | Description                          | Example         |
+|:---------: |:----------------------------:        |:--------:       |
+|    >       | True if left operand is greater than the right| x > y  |
+|    <       | True if left operand is less than th
+e right| x < y     |
+|    ==      | True if both operands are equal            | x == y    |
+|    !=      | True if both operands are equal            | x != y    |
+|    >=      | True if left operand is greater than or equal to the right| x >= y     |
+|    <=      | True if left operand is less than or equal to the right| x <= y     |
